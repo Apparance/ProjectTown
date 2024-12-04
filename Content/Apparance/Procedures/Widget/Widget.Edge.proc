@@ -34,8 +34,8 @@
         <Constant id="-33" type="Integer">12</Constant>
         <Constant id="-34" type="Float">5.000000</Constant>
         <Constant id="-35" type="List"></Constant>
-        <Constant id="-46" type="Float">0.050000</Constant>
-        <Constant id="-47" type="Float">0.200000</Constant>
+        <Constant id="-46" type="Float">0.200000</Constant>
+        <Constant id="-47" type="Float">0.300000</Constant>
         <Constant id="-50" type="Vector3">1.000000, 20.000000, 1.000000</Constant>
         <Constant id="-51" type="Integer">1</Constant>
         <Constant id="-52" type="Integer">1</Constant>
@@ -60,6 +60,7 @@
         <Constant id="-80" type="Integer">-1</Constant>
         <Constant id="-81" type="Integer">2</Constant>
         <Constant id="-83" type="ModelSegment"></Constant>
+        <Constant id="-84" type="Float">1.000000</Constant>
     </Constants>
     <Operators>
         <Operator id="1" type="D729EF5D">
@@ -78,7 +79,7 @@
         </Operator>
         <Operator id="3" type="D729EF5D">
             <Connect in="100" to="2" out="101"/>
-            <Connect in="101" to="4" out="1"/>
+            <Connect in="101" to="32" out="100"/>
             <Connect in="102" constant="-13"/>
             <Connect in="103" constant="-14"/>
             <Connect in="104" constant="-15"/>
@@ -218,6 +219,10 @@
             <Connect in="101" to="31" out="1"/>
         </Operator>
         <Operator id="31" type="39C4CE95"/>
+        <Operator id="32" type="971515D0">
+            <Connect in="100" to="4" out="1"/>
+            <Connect in="101" constant="-84"/>
+        </Operator>
     </Operators>
     <Outputs>
         <Output id="1" type="ModelSegment" name="Out" description="" to="28" out="100"/>

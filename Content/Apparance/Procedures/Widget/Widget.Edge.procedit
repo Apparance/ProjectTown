@@ -1,7 +1,7 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>723.4614,416.4506</Centre>
-    <Zoom>0.513158262</Zoom>
+    <Centre>192.231,402.4763</Centre>
+    <Zoom>1.00000048</Zoom>
   </View>
   <Procedure>
     <Category>Widget</Category>
@@ -253,6 +253,14 @@
       </Comment>
       <InputMetadata />
     </Object>
+    <Object type="ProcedureOperatorState" id="32">
+      <Location>387,304</Location>
+      <Size>46.75667,32.92</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
     <Object type="ProcedureInputState" id="1">
       <Name>Bounds</Name>
       <Description>Make along +Y edge</Description>
@@ -337,6 +345,10 @@
     </Input>
     <Input id="6">
       <Value type="1819242306" value="False" />
+      <Metadata />
+    </Input>
+    <Input id="7">
+      <Value type="842221856" value="0" />
       <Metadata />
     </Input>
   </DefaultInputs>
