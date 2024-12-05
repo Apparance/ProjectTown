@@ -31,10 +31,11 @@
         <Constant id="-56" type="FColour">[0.000000,0.000000,0.000000,1.000000]</Constant>
         <Constant id="-57" type="Float">0.400000</Constant>
         <Constant id="-58" type="Integer">0</Constant>
+        <Constant id="-60" type="Vector3">0.000000, -0.096154, 0.000000</Constant>
     </Constants>
     <Operators>
         <Operator id="9" type="C2407685">
-            <Connect in="2" to="10" out="100"/>
+            <Connect in="2" to="20" out="100"/>
             <Connect in="3" to="12" out="100"/>
             <Connect in="4" constant="-20"/>
         </Operator>
@@ -88,6 +89,10 @@
             <Connect in="1" to="15" out="2"/>
             <Connect in="2" constant="-56"/>
             <Connect in="3" constant="-57"/>
+        </Operator>
+        <Operator id="20" type="121E086E">
+            <Connect in="100" to="10" out="100"/>
+            <Connect in="101" constant="-60"/>
         </Operator>
     </Operators>
     <Outputs>

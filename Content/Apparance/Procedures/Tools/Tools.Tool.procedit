@@ -1,7 +1,7 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>504.5314,249.1626</Centre>
-    <Zoom>0.751315653</Zoom>
+    <Centre>415.9084,241.8405</Centre>
+    <Zoom>0.683013737</Zoom>
   </View>
   <Procedure>
     <Category>Tools</Category>
@@ -84,7 +84,7 @@
       </InputMetadata>
     </Object>
     <Object type="ProcedureOperatorState" id="9">
-      <Location>1157.199,70.29993</Location>
+      <Location>1182.498,75.79992</Location>
       <Size>46.75667,71.8</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -288,11 +288,11 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="31">
-      <Location>132.3,189.4</Location>
-      <Size>77.65667,91.08</Size>
+      <Location>120.7066,335.2687</Location>
+      <Size>216.47,91.08</Size>
       <NoteID>0</NoteID>
-      <Comment>
-      </Comment>
+      <Comment>Y "centering" offset now handled once in
+toolbox for rotation animations</Comment>
       <InputMetadata>
         <Input id="101">
           <Data name="MinimumValue">
@@ -347,6 +347,14 @@
     <Object type="ProcedureOperatorState" id="36">
       <Location>386.5095,496.2678</Location>
       <Size>124.34,65.16</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="37">
+      <Location>125.9917,396.3389</Location>
+      <Size>77.65667,91.08</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
