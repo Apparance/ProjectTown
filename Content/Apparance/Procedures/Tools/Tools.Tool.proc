@@ -33,13 +33,15 @@
         <Constant id="-72" type="Integer">4</Constant>
         <Constant id="-74" type="FColour">[0.000000,0.682353,0.000000,1.000000]</Constant>
         <Constant id="-75" type="FColour">[1.000000,0.000000,0.000000,1.000000]</Constant>
-        <Constant id="-78" type="Vector3">0.000000, -0.096154, 0.257692</Constant>
+        <Constant id="-78" type="Vector3">0.000000, 0.000000, 0.257692</Constant>
         <Constant id="-79" type="Integer">0</Constant>
         <Constant id="-80" type="Integer">1</Constant>
         <Constant id="-81" type="Integer">0</Constant>
         <Constant id="-86" type="Integer">4</Constant>
         <Constant id="-88" type="FColour">[1.000000,1.000000,1.000000,1.000000]</Constant>
         <Constant id="-89" type="Integer">0</Constant>
+        <Constant id="-96" type="ModelSegment"></Constant>
+        <Constant id="-97" type="ModelSegment"></Constant>
     </Constants>
     <Operators>
         <Operator id="2" type="E99E1179">
@@ -60,8 +62,8 @@
             <Connect in="5" constant="-89"/>
         </Operator>
         <Operator id="9" type="EB4EAAA4">
-            <Connect in="100" to="25" out="1"/>
-            <Connect in="101" to="26" out="1"/>
+            <Connect in="100" constant="-97"/>
+            <Connect in="101" constant="-96"/>
             <Connect in="102" to="22" out="1"/>
             <Connect in="103" constant="-24"/>
             <Connect in="104" constant="-25"/>

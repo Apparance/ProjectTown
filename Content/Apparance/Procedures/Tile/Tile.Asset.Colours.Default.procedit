@@ -1,7 +1,7 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>457.5372,373.1984</Centre>
-    <Zoom>1</Zoom>
+    <Centre>365.613,361.6281</Centre>
+    <Zoom>1.21</Zoom>
   </View>
   <Procedure>
     <Category>Tile</Category>
@@ -82,4 +82,5 @@
     <Look>0,0,0</Look>
     <Interest>0</Interest>
   </Camera>
+  <DefaultInputs />
 </ProcedureEditData>

@@ -1,14 +1,14 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>550.1339,637.688</Centre>
-    <Zoom>0.909090936</Zoom>
+    <Centre>55.56312,513.0099</Centre>
+    <Zoom>0.826449335</Zoom>
   </View>
   <Procedure>
     <Category>Land</Category>
     <DisplayName>Tile</DisplayName>
     <Description>Simple land tile</Description>
-    <TopLeft>-569.9669,-20</TopLeft>
-    <BottomRight>1224.773,1344.586</BottomRight>
+    <TopLeft>-745.648,-20</TopLeft>
+    <BottomRight>1320.407,1512.344</BottomRight>
   </Procedure>
   <Objects>
     <Object type="ProcedureOperatorState" id="1">
@@ -412,6 +412,110 @@
       </Comment>
       <InputMetadata />
     </Object>
+    <Object type="ProcedureOperatorState" id="47">
+      <Location>1373.65,498.0842</Location>
+      <Size>46.75667,45.88</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="48">
+      <Location>1233.124,1104.339</Location>
+      <Size>108.8133,78.12</Size>
+      <NoteID>5</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="49">
+      <Location>1049.114,1187.2</Location>
+      <Size>128.5367,69.28</Size>
+      <NoteID>5</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="50">
+      <Location>584.5047,1384.224</Location>
+      <Size>78.92,78.12</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="51">
+      <Location>1139.844,1278.185</Location>
+      <Size>93.44,78.12</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="52">
+      <Location>939,1138</Location>
+      <Size>80.96,54.28</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="53">
+      <Location>938,1399</Location>
+      <Size>57.14333,52.2</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="54">
+      <Location>-251.3923,1375.354</Location>
+      <Size>128.5367,69.28</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="55">
+      <Location>-45.49214,1392.22</Location>
+      <Size>74.33,65.16</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="56">
+      <Location>-200,1120</Location>
+      <Size>72.34333,52.2</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="57">
+      <Location>-545.648,1053.762</Location>
+      <Size>90.55334,91.08</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="58">
+      <Location>-422.0157,1054.684</Location>
+      <Size>90.55334,91.08</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="59">
+      <Location>-98,27</Location>
+      <Size>74.33,65.16</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
     <Object type="ProcedureInputState" id="1">
       <Name>Local</Name>
       <Description>
@@ -462,6 +566,20 @@
       </Title>
       <Text>Doubling up sharpens the transitions.</Text>
     </Object>
+    <Object type="ProcedureNote" id="5">
+      <ID>5</ID>
+      <Location>
+        <X>1024.114</X>
+        <Y>1004.339</Y>
+      </Location>
+      <Size>
+        <Width>342.8232</Width>
+        <Height>277.1406</Height>
+      </Size>
+      <Title>Bounce Plane for Lumen</Title>
+      <Text>
+      </Text>
+    </Object>
   </Objects>
   <Camera>
     <Position>0,0,0</Position>
@@ -487,6 +605,10 @@
     </Input>
     <Input id="5">
       <Value type="1836016967" value="" />
+      <Metadata />
+    </Input>
+    <Input id="6">
+      <Value type="1953720652" value="" />
       <Metadata />
     </Input>
   </DefaultInputs>

@@ -1,186 +1,177 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>266.7485,390.0424</Centre>
-    <Zoom>1.21</Zoom>
+    <Centre>632.1046,59.10157</Centre>
+    <Zoom>1.10000026</Zoom>
   </View>
   <Procedure>
     <Category>Tools</Category>
-    <DisplayName>Toolbox</DisplayName>
-    <Description>Container and spawner for tools</Description>
-    <TopLeft>-400.6801,-60.45454</TopLeft>
-    <BottomRight>929.3168,690.86</BottomRight>
+    <DisplayName>Tool.Rectangle</DisplayName>
+    <Description>Rectangle that was previously part of each tool, now drawn separately to decouple rotation</Description>
+    <TopLeft>-241.7578,-352.6002</TopLeft>
+    <BottomRight>1157.498,679.6529</BottomRight>
   </Procedure>
   <Objects>
     <Object type="ProcedureOperatorState" id="1">
-      <Location>177,169</Location>
-      <Size>89.30334,52.2</Size>
+      <Location>185,173</Location>
+      <Size>59.65,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="2">
-      <Location>415.4711,140.719</Location>
-      <Size>77.85,52.2</Size>
+      <Location>694,-206</Location>
+      <Size>64.82333,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="3">
-      <Location>396.7273,221.8513</Location>
-      <Size>82.75667,52.2</Size>
+      <Location>475,-162</Location>
+      <Size>74.33,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="4">
-      <Location>313.79,209.25</Location>
-      <Size>75.01,91.08</Size>
+      <Location>813,-152</Location>
+      <Size>74.33,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="5">
-      <Location>564.0301,43.96002</Location>
-      <Size>128.5367,69.28</Size>
+      <Location>744,23</Location>
+      <Size>74.33,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="6">
-      <Location>666.0301,191.96</Location>
-      <Size>78.92,78.12</Size>
+      <Location>109,-73</Location>
+      <Size>68.83667,52.2</Size>
       <NoteID>0</NoteID>
-      <Comment>
-      </Comment>
+      <Comment>Highlighted?</Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="7">
-      <Location>824.0301,231.96</Location>
-      <Size>57.14333,52.2</Size>
+      <Location>114,48</Location>
+      <Size>68.83667,52.2</Size>
       <NoteID>0</NoteID>
-      <Comment>
-      </Comment>
+      <Comment>selected?</Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="8">
-      <Location>418.8999,335.9998</Location>
-      <Size>77.46667,52.2</Size>
+      <Location>570,-9</Location>
+      <Size>74.33,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="9">
-      <Location>537.9105,482.8201</Location>
-      <Size>132.0767,65.16</Size>
+      <Location>988,35</Location>
+      <Size>86.46667,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="10">
-      <Location>255.6,434.2001</Location>
-      <Size>86.38,129.96</Size>
+      <Location>172,-263</Location>
+      <Size>46.75667,32.92</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="11">
-      <Location>51.19999,407.0004</Location>
-      <Size>114.5133,91.08</Size>
+      <Location>333,-302</Location>
+      <Size>74.33,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="12">
-      <Location>366.2801,601.58</Location>
-      <Size>122.8333,39.28</Size>
+      <Location>171,-194</Location>
+      <Size>46.75667,32.92</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="13">
-      <Location>-141.39,304.5399</Location>
-      <Size>114.5133,91.08</Size>
+      <Location>338,-232</Location>
+      <Size>74.33,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="14">
-      <Location>982.5601,372.48</Location>
-      <Size>46.75667,71.8</Size>
+      <Location>989,-67</Location>
+      <Size>86.46667,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="15">
-      <Location>-68.69001,80.38002</Location>
+      <Location>695,106</Location>
       <Size>108.5833,91.08</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
-      <InputMetadata>
-        <Input id="3">
-          <Data name="MaximumValue">
-            <DataValue typeid="842221088">
-              <Float>1</Float>
-            </DataValue>
-          </Data>
-        </Input>
-        <Input id="4">
-          <Data name="MaximumValue">
-            <DataValue typeid="842221088">
-              <Float>1</Float>
-            </DataValue>
-          </Data>
-        </Input>
-      </InputMetadata>
+      <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="16">
-      <Location>129.7399,73.73003</Location>
-      <Size>122.3,52.2</Size>
+      <Location>13.17169,202.4641</Location>
+      <Size>86.38,129.96</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="17">
-      <Location>127.8499,149.5399</Location>
-      <Size>125.2567,65.16</Size>
+      <Location>1182,125</Location>
+      <Size>46.75667,71.8</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="18">
-      <Location>154.2893,-10.45454</Location>
-      <Size>86.46667,65.16</Size>
+      <Location>316.0256,202.995</Location>
+      <Size>77.65667,91.08</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="19">
-      <Location>151.5207,66.27274</Location>
-      <Size>86.46667,65.16</Size>
+      <Location>213.8817,381.686</Location>
+      <Size>77.65667,91.08</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="20">
-      <Location>406.7521,489.6529</Location>
+      <Location>427.8182,305.3639</Location>
       <Size>72.34333,52.2</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="21">
+      <Location>167.4,152.8</Location>
+      <Size>77.65667,91.08</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
@@ -188,6 +179,16 @@
     </Object>
     <Object type="ProcedureInputState" id="1">
       <Name>Bounds</Name>
+      <Description>
+      </Description>
+    </Object>
+    <Object type="ProcedureInputState" id="2">
+      <Name>Tool</Name>
+      <Description>
+      </Description>
+    </Object>
+    <Object type="ProcedureInputState" id="3">
+      <Name>State</Name>
       <Description>
       </Description>
     </Object>
@@ -206,6 +207,14 @@
   <DefaultInputs>
     <Input id="1">
       <Value type="1835102790" value="[0,0,0][1,0,0][0,1,0][0,0,1][1,1,1]" />
+      <Metadata />
+    </Input>
+    <Input id="2">
+      <Value type="842221856" value="0" />
+      <Metadata />
+    </Input>
+    <Input id="3">
+      <Value type="842221856" value="0" />
       <Metadata />
     </Input>
   </DefaultInputs>
